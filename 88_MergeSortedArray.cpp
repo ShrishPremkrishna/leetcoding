@@ -1,4 +1,5 @@
-/* Problem:
+/* 
+Problem: 88. Merge Sorted Array
 Link: https://leetcode.com/problems/merge-sorted-array?envType=study-plan-v2&envId=top-interview-150
 
 Notes: I get two non decreasing arrays and their sizes. I need to combine them both into a nondecreasing array. 
